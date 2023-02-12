@@ -1,7 +1,5 @@
 # Rest Api
 
-# user - service
-
 ```
 GET /users -- list of users -- 200, 404, 500
 GET /users/:id -- user by id -- 200, 404, 500
